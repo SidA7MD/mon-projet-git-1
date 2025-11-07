@@ -1,1 +1,2 @@
 // Authentification module
+"Bonne implémentation
